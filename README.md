@@ -1,6 +1,6 @@
 # riigikogu
 
-riigikogu is an R package for accessing votings related data from the Chancellery of the Riigikogu's [open data API](https://api.riigikogu.ee/swagger-ui.html).
+`riigikogu` is an R package for accessing voting related data from the Chancellery of the Riigikogu's [open data API](https://api.riigikogu.ee/swagger-ui.html).
 
 ![](figures/ratas_1st_cabinet.png)
 
