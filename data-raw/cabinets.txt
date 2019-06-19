@@ -1,0 +1,12 @@
+name	start_date	end_date	coalition
+Mart Laari teine valitsus	1999-03-25	2002-01-28	IL + RE + Mõõdukad
+Siim Kallase valitsus	2002-01-28	2003-04-10	RE + KE
+Juhan Partsi valitsus	2003-04-10	2005-04-13	RP + RE + RL
+Andrus Ansipi esimene valitsus	2005-04-13	2007-04-05	RE + KE + RL
+Andrus Ansipi teine valitsus (RE + IRL + SDE)	2007-04-05	2009-05-21	RE + IRL + SDE
+Andrus Ansipi teine valitsus (RE + IRL)	2009-05-21	2011-04-06	RE + IRL
+Andrus Ansipi kolmas valitsus	2011-04-06	2014-03-26	RE + IRL
+Taavi Rõivase esimene valitsus	2014-03-26	2015-04-09	RE + SDE
+Taavi Rõivase teine valitsus	2015-04-09	2016-11-22	RE + SDE + IRL
+Jüri Ratase esimene valitsus	2016-11-22	2019-04-29	KE + SDE + IRL
+Jüri Ratase teine valitsus	2019-04-29		KE + EKRE + I
